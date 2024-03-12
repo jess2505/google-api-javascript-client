@@ -29,5 +29,5 @@ If you use TypeScript, you can install [`@types/gapi`](https://www.npmjs.com/pac
 
 ## Links
 
-- [Discussions](https://github.com/google/google-api-javascript-client/issues)
+- [Discussions](https://github.com/google/google-api-javascript-client/issues)l LH j
 - [Historical Announcements](http://google-api-javascript-client.blogspot.com/)
